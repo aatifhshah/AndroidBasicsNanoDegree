@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="gondor_one">Minas Tirith</string>
+    <string name="gondor_two">Osgiliath</string>
+    <string name="gondor_three">Grey Wood</string>
+
+    <string name="mordor_one">Cirith Ungol</string>
+    <string name="mordor_two">Barad-dur</string>
+    <string name="mordor_three">Morannon</string>
+
+    <string name="rohan_one">Fangorn</string>
+    <string name="rohan_two">Entwash</string>
+    <string name="rohan_three">White Mountains</string>
+
+    <string name="shire_one">Bag End</string>
+    <string name="shire_two">Longbottom</string>
+    <string name="shire_three">Woody End</string>
+
+
+
+    <string name="gondor_rating_one">5/5 Recommended</string>
+    <string name="gondor_rating_two">2/5 Recommended</string>
+    <string name="gondor_rating_three">4/5 Recommended</string>
+
+    <string name="mordor_rating_one">5/7 Recommended</string>
+    <string name="mordor_rating_two">1/5 Recommended</string>
+    <string name="mordor_rating_three">5/5 Recommended</string>
+
+    <string name="rohan_rating_one">4/5 Recommended</string>
+    <string name="rohan_rating_two">3/5 Recommended</string>
+    <string name="rohan_rating_three">5/5 Recommended</string>
+
+    <string name="shire_rating_one">5/5 Recommended</string>
+    <string name="shire_rating_two">3/5 Recommended</string>
+    <string name="shire_rating_three">4/5 Recommended</string>
+
+</resources>
